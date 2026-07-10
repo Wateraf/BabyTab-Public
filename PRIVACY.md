@@ -46,6 +46,19 @@ CSV import reads a file you select and writes matching records to local storage.
 
 BabyTab is distributed through the Apple App Store. Apple may process purchase, device, and crash information according to [Apple's privacy policy](https://www.apple.com/legal/privacy/). We do not receive your care log content through the App Store.
 
+## BabyTab Pro (subscriptions)
+
+BabyTab Pro is available as a monthly or yearly auto-renewing subscription, or a one-time lifetime purchase. Billing is handled by **Apple** — we never see your payment card.
+
+| Topic | Detail |
+|-------|--------|
+| **Billing** | Apple App Store |
+| **Plans** | Monthly ($3.99), yearly ($28.99), or lifetime ($49.99) — no free trial |
+| **RevenueCat** | Used on-device to validate whether Pro is active and to restore purchases. RevenueCat may assign an anonymous app user ID for subscription management. See [RevenueCat Privacy Policy](https://www.revenuecat.com/privacy/) |
+| **Manage / cancel** | iOS **Settings → Apple ID → Subscriptions** |
+
+We receive only whether your Pro entitlement is active — not your baby care logs.
+
 ## Children's information
 
 BabyTab is intended for parents and caregivers to log information about their baby. The app is not directed at children to use on their own. Information about a baby is entered and controlled by the device owner.
