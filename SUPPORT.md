@@ -4,12 +4,12 @@ Need help with the BabyTab iOS app?
 
 ## Contact
 
-- **GitHub Issues (preferred):** [github.com/Wateraf/BabyTab-Public/issues](https://github.com/Wateraf/BabyTab-Public/issues)  
-  Bug reports, feature requests, and privacy questions welcome.
+- **App Store review (preferred):** Open BabyTab on your iPhone → **Settings → Leave a Review**, or find BabyTab on the App Store and tap **Write a Review**. Reviews help other parents discover the app and give us the most useful feedback.
 
-- **Email:** [support@mizulab.com](mailto:support@mizulab.com?subject=BabyTab%20Support)
+- **GitHub Issues:** [github.com/Wateraf/BabyTab-Public/issues](https://github.com/Wateraf/BabyTab-Public/issues)  
+  For reproducible bugs or feature ideas if you use GitHub.
 
-- **App Store:** Use the developer contact link on the BabyTab product page if you prefer email through Apple.
+- **App Store developer contact:** On the BabyTab product page, use Apple's developer contact link if you need a private message routed through Apple.
 
 ## Common topics
 
