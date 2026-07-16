@@ -5,7 +5,7 @@ Need help with the BabyTab iOS app?
 ## Contact
 
 - **email (preferred):** yuyutakwater1@gmail.com
-- 
+
 - **App Store review (preferred):** Open BabyTab on your iPhone → **Settings → Leave a Review**, or find BabyTab on the App Store and tap **Write a Review**. Reviews help other parents discover the app and give us the most useful feedback.
 
 - **GitHub Issues:** [github.com/Wateraf/BabyTab-Public/issues](https://github.com/Wateraf/BabyTab-Public/issues)  
